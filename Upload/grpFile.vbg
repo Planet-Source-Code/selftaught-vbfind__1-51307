@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=Messagebox\MessageBoxEx.vbp
+StartupProject=Find\VBFind.vbp
+Project=OPC\Code\vbalExplorerBarLib6\vbalExplorerBarLib6.vbp
